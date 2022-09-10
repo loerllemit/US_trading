@@ -3,3 +3,4 @@ yahoo_fin
 yfinance
 pandas
 numpy
+openpyxl
