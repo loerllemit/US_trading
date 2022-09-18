@@ -1,6 +1,4 @@
-# US_trading
+This project is written in jupyter notebook file.
+The code will screen all the stocks in the SP 500 index according to the criteria introduced by Mark Minervini in his book 'Think & Trade Like a Champion'. See this [link](https://in.tradingview.com/script/88aL78Qh-TwP-Mark-Minervini-Trend-Template-Criteria/) for details. This will output a list of stocks which you can use as watchlist to trade.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/loerllemit/US_trading/main?labpath=screener_long_SP500.ipynb)
-
-.. image:: https://mybinder.org/badge_logo.svg
-:target: https://mybinder.org/v2/gh/loerllemit/US_trading/main?labpath=screener_long_SP500.ipynb
+Backend: Jupyter 
