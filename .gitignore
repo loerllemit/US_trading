@@ -189,4 +189,4 @@ poetry.toml
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 *Zone.Identifier
-*us_stocks/
+us_stocks/
