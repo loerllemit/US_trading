@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "us-trading"
+version = "0.1.0"
+description = ""
+authors = ["Christian Loer T. Llemit <loerllemit@gmail.com>"]
+readme = "README.md"
+packages = [{include = "us_trading"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.2"
+numpy = "^1.23.5"
+yfinance = "^0.1.87"
+yahoo-fin = "^0.8.9.1"
+ipykernel = "^6.17.1"
+pandas-datareader = "^0.10.0"
+openpyxl = "^3.0.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
